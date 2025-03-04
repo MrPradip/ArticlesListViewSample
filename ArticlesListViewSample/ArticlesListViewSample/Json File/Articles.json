@@ -1,0 +1,113 @@
+
+
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Biztoc.com"
+      },
+      "author": "tipranks.com",
+      "title": "Tesla’s February Sales Plunge 26% in France as 2025 Struggles Continue",
+      "description": "Tesla’s (TSLA) sales in France plunged 26% year-over-year in February.",
+      "url": "https://biztoc.com/x/8a9e090d8193af03",
+      "urlToImage": "https://biztoc.com/cdn/8a9e090d8193af03_s.webp",
+      "publishedAt": "2025-03-03T17:46:26Z",
+      "content": "Tesla’s (TSLA) sales in France plunged 26% year-over-year in February."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Itc.ua"
+      },
+      "author": "Вадим Карпусь",
+      "title": "Водители Tesla массово получают штрафы за использование FSD — что случилось?",
+      "description": "Водители Tesla в Китае тестируют новое обновление Full Self-Driving (FSD).",
+      "url": "https://itc.ua/news/vodytely-tesla-massovo-poluchayut-shtrafy-za-yspolzovanye-fsd-chto-sluchylos/",
+      "urlToImage": "https://itc.ua/wp-content/uploads/2025/03/Tesla-FSd-China.jpg",
+      "publishedAt": "2025-03-03T17:01:07Z",
+      "content": "Tesla Full Self-Driving (FSD) testing in China."
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Post"
+        },
+        "author": "Josh Christenson",
+        "title": "Trump’s Education Department offers up to $25K buyout to employees with midnight deadline",
+        "description": "So far, officials say 137 workers, including those slated for retirement, have taken them up on the offer.",
+        "url": "https://nypost.com/2025/03/03/us-news/trumps-education-department-offers-up-to-25k-buyout-to-employees-with-midnight-deadline/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/03/99707844.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2025-03-03T19:11:30Z",
+        "content": "WASHINGTON President Trump’s Education Department is floating a buyout offer of up to $25,000 to its employees, which is set to terminate at 11:59 p.m. Monday, officials told The Post.\r\nThe departmen… [+3939 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Fark.com"
+        },
+        "author": null,
+        "title": "Elon Musk and his billionaire pals are watching their money evaporate in spectacular fashion as their stocks crater. Happy Monday, everyone [Spiffy]",
+        "description": "Elon Musk and his billionaire pals are watching their money evaporate in spectacular fashion as their stocks crater. Happy Monday, everyone",
+        "url": "https://www.fark.com/comments/13582832/Elon-Musk-his-billionaire-pals-are-watching-their-money-evaporate-in-spectacular-fashion-as-their-stocks-crater-Happy-Monday-everyone",
+        "urlToImage": "https://img.fark.net/images/2013/site/farkLogo2Big.gif",
+        "publishedAt": "2025-03-03T19:09:43Z",
+        "content": "Chariset:Does Tesla have the power to straight-up oust him?\r\nHe probably owns like 51% of the stock, meaning that he is 100% in control, and no one can do anything about it.Let me check.\r\n//checks\r\nH… [+443 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "ComicBook.com"
+        },
+        "author": "Demi Leverett",
+        "title": "10 Best Must-Watch Cyberpunk Anime for Every Fan to Enjoy",
+        "description": "Bright neon lights. Futuristic technologies and AR as daily tools. The cyber world melding with our own. The future of technology is not just limiting itself to the online world but being integrated within the real world seems like it’ll be full of promising …",
+        "url": "http://comicbook.com/anime/news/best-cyberpunk-anime/",
+        "urlToImage": "https://comicbook.com/wp-content/uploads/sites/4/2025/02/Best-Cyberpunk-anime-featuring-Ergo-Proxy-Cyberpunk-Edgerunners-and-Ghost-in-the-Shell.jpg?resize=2000,1125",
+        "publishedAt": "2025-03-03T19:06:03Z",
+        "content": "Bright neon lights. Futuristic technologies and AR as daily tools. The cyber world melding with our own. The future of technology is not just limiting itself to the online world but being integrated … [+12968 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Ilgiornale.it"
+        },
+        "author": "redazione@ilgiornale-web.it (Tommaso Giacomelli)",
+        "title": "Crollano le Immatricolazioni, boom delle Ibride: cosa rivelano i dati di febbraio",
+        "description": "Dopo un gennaio negativo, il settore dell'auto in Italia chiude il mese di febbraio nello stesso. Calo vertiginoso delle immatricolazioni (-6,3%) rispetto allo stesso periodo del 2024",
+        "url": "https://www.ilgiornale.it/news/automotive/quanta-difficolt-settore-auto-italia-immatricolazioni-calo-2446179.html",
+        "urlToImage": "https://img.ilgcdn.com/sites/default/files/styles/social/public/foto/2025/03/03/1741027403-fiatrisultaticommercialiafebbraio2025.jpg?_=1741027657",
+        "publishedAt": "2025-03-03T19:03:44Z",
+        "content": "Il 2025 si preannuncia come un anno complesso per il settore automobilistico italiano, segnato da una fase delicata. Le sfide legate all'elettrificazione, le incertezze economiche globali e le politi… [+5908 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Biztoc.com"
+        },
+        "author": "turnto10.com",
+        "title": "Nine people arrested at anti-Musk protest outside of NYC Tesla dealership",
+        "description": "Nine people were arrested on Saturday at a protest outside a New York City Tesla dealership, Reuters reports.\nProtestors gathered to rally against Tesla owner and head of the Department of Government Efficiency Elon Musk’s role in sweeping cuts to the federal…",
+        "url": "https://biztoc.com/x/73c26883a6d010c9",
+        "urlToImage": "https://biztoc.com/cdn/73c26883a6d010c9_s.webp",
+        "publishedAt": "2025-03-03T19:03:23Z",
+        "content": "Nine people were arrested on Saturday at a protest outside a New York City Tesla dealership, Reuters reports.Protestors gathered to rally against Tesla owner and head of the Department of Government … [+143 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "GlobeNewswire"
+        },
+        "author": "GraniteShares",
+        "title": "The GraniteShares YieldBoost TSLA ETF (TSYY) Yielded a February Annualized Distribution of Approximately 160.59% Generating a -8.38% Total Return. TSYY Went Ex-Dividend on February 28, 2025",
+        "description": "New York, New York, March 03, 2025 (GLOBE NEWSWIRE) -- YieldBOOST\r\n is an innovative strategy that aims to combine high income potential by selling options on leveraged ETFs which generally command a higher premium than options on stocks, while focusing on NA…",
+        "url": "https://www.globenewswire.com/news-release/2025/03/03/3035971/0/en/The-GraniteShares-YieldBoost-TSLA-ETF-TSYY-Yielded-a-February-Annualized-Distribution-of-Approximately-160-59-Generating-a-8-38-Total-Return-TSYY-Went-Ex-Dividend-on-February-28-20.html",
+        "urlToImage": "https://ml.globenewswire.com/Resource/Download/ac6beda8-a574-42f0-bb97-9376bec2c1e0",
+        "publishedAt": "2025-03-03T19:02:00Z",
+        "content": "New York, New York, March 03, 2025 (GLOBE NEWSWIRE) -- YieldBOOST\r\n is an innovative strategy that aims to combine high income potential by selling options on leveraged ETFs which generally command a… [+5018 chars]"
+    },
+  ]
+}
+
