@@ -83,8 +83,8 @@ Ensure `Articles.json` is included in the **target membership** of the test targ
 
 ## 👨‍💻 Author
 **Pradip Kumar**  
-📧 [your.email@example.com](mailto:pradip.iosdev@gmail.com)  
-🔗 [GitHub](https://github.com/MrPradip)
+📧 (mailto:pradip.iosdev@gmail.com)  
+🔗 (https://github.com/MrPradip)
 
 ---
 
