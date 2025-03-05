@@ -45,7 +45,7 @@ class ArticleViewModel: ObservableObject {
 
                 do {
                     let decodedResponse = try JSONDecoder().decode(ArticleResponse.self, from: data)
-                    self?.articles = decodedResponse.articles
+                    self?.articles = decodedResponse.articles ?? []
                 } catch {
                     self?.errorMessage = "Failed to decode data: \(error.localizedDescription)"
                 }
@@ -65,7 +65,7 @@ class ArticleViewModel: ObservableObject {
                    let data = try Data(contentsOf: URL(fileURLWithPath: path))
                    let decodedResponse = try JSONDecoder().decode(ArticleResponse.self, from: data)
                    DispatchQueue.main.async {
-                       self.articles = decodedResponse.articles
+                       self.articles = decodedResponse.articles ?? []
                        self.isLoading = false
                        print(" Successfully decoded JSON: \(self.articles)")
                    }

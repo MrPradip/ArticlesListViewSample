@@ -79,9 +79,9 @@ struct ArticleRow: View {
             }
             
             VStack(alignment: .leading) {
-                Text(article.title)
+                Text(article.title ?? "")
                     .font(.headline)
-                Text(article.source.name ?? "")
+                Text(article.source?.name ?? "")
                     .font(.subheadline)
                     .foregroundColor(.gray)
             }
