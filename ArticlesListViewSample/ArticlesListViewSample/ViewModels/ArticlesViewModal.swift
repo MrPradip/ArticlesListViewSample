@@ -11,11 +11,8 @@ class ArticleViewModel: ObservableObject {
     @Published var articles: [Article] = []
     @Published var isLoading = false
     @Published var errorMessage: String?
-
-    private let apiURL = 
-    //"https://newsapp.org/v2/everything?q=tesla&from=2025-02-04&sortBy=publishedAt&apiKey=YOUR_API_KEY"
-    "https://newsapp.org/v2/everything?q=tesla&from=2025-02-04&sortBy=publishedAt&apiKey=b0ad12098b4f455881416f924788f004"
-    //API key = b0ad12098b4f455881416f924788f004 // dummy key
+    
+    private let apiURL = ProcessInfo.processInfo.environment["NEWS_API_KEY"] ?? ""
 
     // MARK : Data uploaded from API by adding correct API key
     func fetchArticles() {
